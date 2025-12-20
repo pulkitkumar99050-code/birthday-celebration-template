@@ -170,8 +170,8 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">💖 Forever Yours, Tera 🐶 bhai 💖</h2>
-          <p className="final-subtitle">💗 love you meri Baby Penguin 𖹭 ✨</p>
+          <h2 className="final-message">💖 Forever Yours, Tera Kutta bhai 💖</h2>
+          <p className="final-subtitle"> Always 💗 u meri Baby Penguin 𖹭</p>
         </section>
       </div>
 
