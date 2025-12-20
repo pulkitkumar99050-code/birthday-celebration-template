@@ -332,9 +332,9 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
         <>
           {/* Buttons Section - At the TOP */}
           <div className="celebration-buttons">
-            <h2 className="celebration-title">Let's Celebrate! 🎉</h2>
+            <h2 className="celebration-title">Let's Celebrate the party! 🎉</h2>
             <p className="celebration-subtitle">
-              Click the buttons to decorate
+              Like stars dancing in the night sky for uh ᡣ𐭩. Click the buttons to decorate
             </p>
 
             <div className="buttons-grid">
