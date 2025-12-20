@@ -389,7 +389,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="message"
                   onClick={() => handleButtonClick("message")}
                 >
-                  💌 Well, there's a little message waiting for you, Puchkiii <𝟑               </button>
+                  💌 Well, there's a little message waiting for you, Puchkiii<𝟑               </button>
               )}
             </div>
           </div>
