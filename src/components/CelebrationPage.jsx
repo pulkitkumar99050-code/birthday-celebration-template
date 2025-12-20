@@ -345,7 +345,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="lights"
                   onClick={() => handleButtonClick("lights")}
                 >
-                  💡 Let the Lights Hug u Softly ❤️
+                  💡 Turn on the soft lights
                 </button>
               )}
 
@@ -367,7 +367,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="decorate"
                   onClick={() => handleButtonClick("decorate")}
                 >
-                  🎨 Decorate
+                  ✨ Decorate
                 </button>
               )}
 
