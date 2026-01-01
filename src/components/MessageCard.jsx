@@ -13,13 +13,12 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Heyy Chhota Bachha..,
+  const message = `Heyy Chhutankiii...💗,
 
 Happieest birthday to the most Cutest, Sweetest and the Prettiest gurll ever🦋
 >>>🤌💗
-Mahadev always bless u with lots of happiness, Joy and Success ♾️🧿
-Your personalized birthday message goes here.
 
+Mahadev always bless u with lots of happiness, Joy and Success ♾️🧿
 You can write multiple paragraphs to express your feelings,
 share memories, and make this special day even more memorable.
 
