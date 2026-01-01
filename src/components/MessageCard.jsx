@@ -15,10 +15,9 @@ function MessageCard({ isActive }) {
 
   const message = `Heyy Chhutankiii...💗,
 
-Happieest birthday to the most Cutest, Sweetest and the Prettiest gurll ever🦋
->>>🤌💗
+Happieest birthday to the most Cutest, Sweetest and the Prettiest gurll ever!! 🦋🧿
 
-Mahadev always bless u with lots of happiness, Joy and Success ♾️🧿
+Mahadev always bless u with lots of happiness, Joy and Success ♾️
 You can write multiple paragraphs to express your feelings,
 share memories, and make this special day even more memorable.
 
@@ -27,7 +26,7 @@ so feel free to customize it completely to fit your style.
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— Yours Tinn 🤭😅`;
 
   // Handle page transitions
   useEffect(() => {
