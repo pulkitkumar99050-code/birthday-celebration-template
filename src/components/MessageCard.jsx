@@ -13,20 +13,20 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Heyy Chhutankiii...💗,
+  const message = `Heyy Mera Chhota bachha..
 
-Happieest birthday to the most Cutest, Sweetest and the Prettiest gurll ever!! 🦋🧿
+Happieest birthday meri Chhutankuu – the cutest, sweetest, and prettiest girl in the universe!!! 🤌💗🧿
+I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️🌟
+Wishing All the best 👍🏻 for ur boards shaitan. Ha abhi thoda nervous feel hona normal hai, apan best dene ka try krna and pressure nhi lena.✌🏻😊
 
-Mahadev always bless u with lots of happiness, Joy and Success ♾️
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+And I wish this year turns out amazing for u—may u achieve everything u want, all ur dreams come true, and you enjoy every moment to the fullest, My baby penguin..!! 🥰
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+And remember, anything on your mind, u can share with me kbhi bhi without any hesitation kuch bhi, I'm always here. and For all the times jitna bhi maine tujhe hurt kiya hai in past years, Uske liye dil se Sorryy Yr 🥺
 
-Happy Birthday! 🎉
-
-— Yours Tinn 🤭😅`;
+You're the bestest sister anyone could ever have—the sweetest, smartest, and most wonderful girl in the world… even if I'm your worst brother sometimes ❤️
+Love you more than ever, forever ♾️💖
+Your Kutta bhai 
+— Tinn🤭😋`;
 
   // Handle page transitions
   useEffect(() => {
