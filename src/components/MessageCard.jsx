@@ -17,16 +17,18 @@ function MessageCard({ isActive }) {
 
 Happieest birthday meri Chhutankuu – the cutest, sweetest, and prettiest girl in the universe!!! 🤌💗🧿
 I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️🌟
-Wishing All the best 👍🏻 for ur boards shaitan. Ha abhi thoda nervous feel hona normal hai, apan best dene ka try krna and pressure nhi lena.✌🏻😊
+Wishing All the best 👍🏻 for ur boards Shaitan🐱. Yr abhi thoda nervous feel ho rha hoga and ye hona normal hai, tum bs apna best dene ka try krna and pressure nhi lena.✌🏻😊
 
-And I wish this year turns out amazing for u—may u achieve everything u want, all ur dreams come true, and you enjoy every moment to the fullest, My baby penguin..!! 🥰
+And I wish this year turns out amazing for u and u achieve everything u want, all ur dreams come true, and u enjoy every moment to the fullest, Meri baby penguin..!! 🥰
 
-And remember, anything on your mind, u can share with me kbhi bhi without any hesitation kuch bhi, I'm always here. and For all the times jitna bhi maine tujhe hurt kiya hai in past years, Uske liye dil se Sorryy Yr 🥺
+And remember, anything on your mind, u can share with me kbhi bhi without any hesitation kuch bhi, I'm always here. and For all the times jitna bhi maine tujhe hurt kiya hai in past years, Uske liye dil se Sorryyyy Yr 🥺
 
-You're the bestest sister anyone could ever have—the sweetest, smartest, and most wonderful girl in the world… even if I'm your worst brother sometimes ❤️
-Love you more than ever, forever ♾️💖
-Your Kutta bhai 
-— Tinn🤭😋`;
+You're the bestest sister anyone could ever have 💗 the sweetest, smartest, and most wonderful girl in the world…❤️ even though I'm your worst bhai ever..
+
+Love u more than ever, forever ♾️💖
+
+Tumhara Kutta bhai
+— Tinn 😅🤭`;
 
   // Handle page transitions
   useEffect(() => {
