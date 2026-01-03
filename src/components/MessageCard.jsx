@@ -15,20 +15,21 @@ function MessageCard({ isActive }) {
 
   const message = `Heyy Mera Chhota bachha..
 
-Happieest birthday meri Chhutankuu – the cutest, sweetest, and prettiest girl in the universe!!! 🤌💗🧿
+Happieest birthday to the Cutest, Sweetest, and Prettiest girl in the whole universe!!! 🤌💗🧿
 I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️🌟
-Wishing All the best 👍🏻 for ur boards Shaitan🐱. Yr abhi thoda nervous feel ho rha hoga and ye hona normal hai, tum bs apna best dene ka try krna and pressure nhi lena.✌🏻😊
 
-And I wish this year turns out amazing for u and u achieve everything u want, all ur dreams come true, and u enjoy every moment to the fullest, Meri baby penguin..!! 🥰
+I wish this year turns out amazing for u—may u achieve everything u want, all ur dreams come true, and you enjoy every moment to the fullest, Mera Chhota baby..!! 🥰
 
-And remember, anything on your mind, u can share with me kbhi bhi without any hesitation kuch bhi, I'm always here. and For all the times jitna bhi maine tujhe hurt kiya hai in past years, Uske liye dil se Sorryyyy Yr 🥺
+Wishing All the best 👍🏻 for ur boards meri Shaitan🐱. Ik abhi thoda nervous feel ho rha hoga and ye normal hai, Tum bs apna best dene ka try krna and pressure nhi lena.✌🏻☺
+And remember, anything on your mind, u can share with me kbhi bhi without any hesitation kuch bhi, I'm always here for u. 
+And For all the times jitna bhi maine tujhe hurt kiya hai in past years, Uske liye dil se Sorryy Yr 🥺
 
-You're the bestest sister anyone could ever have 💗 the sweetest, smartest, and most wonderful girl in the world…❤️ even though I'm your worst bhai ever..
+You're the bestest sister anyone could ever have. Tu sbse achhi hai yrr 🥹 u r sweetest, smartest, and most wonderful girl in the world… 
+even though I'm your worst bhai.. 
 
-Love u more than ever, forever ♾️💖
-
-Tumhara Kutta bhai
-— Tinn 😅🤭`;
+Love you more than ever, forever ♾️💖
+Tera Kutta bhai 
+— Tinn 🤭😋 `;
 
   // Handle page transitions
   useEffect(() => {
