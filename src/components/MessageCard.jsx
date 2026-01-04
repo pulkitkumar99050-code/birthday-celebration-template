@@ -17,19 +17,21 @@ function MessageCard({ isActive }) {
 
 Happieest birthday to the Cutest, Sweetest, and Prettiest girl in the whole universe!!! 🤌💗🧿
 I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️🌟
+I wish this year turns out amazing for u and u achieve everything u want, all ur dreams come true, and you enjoy every moment to the fullest, chhota bby..!! 🥰
 
-I wish this year turns out amazing for u—may u achieve everything u want, all ur dreams come true, and you enjoy every moment to the fullest, Mera Chhota baby..!! 🥰
+Wishing All the best 👍🏻 for ur boards meri Shaitan🐱. Ik abhi thoda nervous feel ho rha hoga and ye normal hai, Tum bs apna best dene ka try krna and pressure nhi lena✌🏻☺
 
-Wishing All the best 👍🏻 for ur boards meri Shaitan🐱. Ik abhi thoda nervous feel ho rha hoga and ye normal hai, Tum bs apna best dene ka try krna and pressure nhi lena.✌🏻☺
-And remember, anything on your mind, u can share with me kbhi bhi without any hesitation kuch bhi, I'm always here for u. 
+And remember, anything on your mind, u can share with me kbhi bhi without any hesitation kuch bhi, I'm always here.
 And For all the times jitna bhi maine tujhe hurt kiya hai in past years, Uske liye dil se Sorryy Yr 🥺
 
 You're the bestest sister anyone could ever have. Tu sbse achhi hai yrr 🥹 u r sweetest, smartest, and most wonderful girl in the world… 
 even though I'm your worst bhai.. 
 
-Love you more than ever, forever ♾️💖
+Once again, happiest birthday to uhh 🥳
+Miss u yr ♾️💖
+
 Tera Kutta bhai 
-— Tinn 🤭😋 `;
+— Tinn 🤭😋   `;
 
   // Handle page transitions
   useEffect(() => {
