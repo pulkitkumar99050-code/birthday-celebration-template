@@ -35,7 +35,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
     },
     {
       icon: "🥹",
-      text: "Do u wanna see what ur idiot bhai made? Yes daba na..𖹭",
+      text: "Do u wanna see what I made? Yes daba na..𖹭",
       type: "question",
       options: [
         { text: "Yes!", value: "yes" },
