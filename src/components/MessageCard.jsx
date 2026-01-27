@@ -13,7 +13,29 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Heyy Mera Chhota bachha..
+  const message = `Oyee Mera Chhota bachha..
+
+Happieest birthdayy to the Cutest, Sweetest, and Prettiest Shaitan in the whole universe!!! 🤌💗🧿
+I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️🌟
+I wish this year turns out amazing for u and u achieve everything u want, all ur dreams come true, and you enjoy every moment to the fullest !! 🥰
+
+Wishing All the best👍🏻 for ur boards Shaitan🐱. Iknow abhi thoda drr bhi lg rha hoga but Tum apna best dene ka try krna and pressure nhi lena ✌🏻
+
+And remember, anything on your mind, u can share with me kbhi bhi, I'm always here.
+And For all the times jitna bhi maine tujhe hurt kiya hai in past years, Uske liye Sorryy Yr🥺
+
+You're the bestest sister anyone could ever have.Tu sbse achhi hai yrr 🥹 You're the bestest sister anyone could ever have. u r sweetest, smartest, and most wonderful girl in the world…
+even though I'm your worst bhai..
+
+Once again, happiest birthday to uhh my chhotusa babyy!! 🥳
+Never stop smiling, never stop shining and never stop being this amazing..✨
+
+Miss u yr ♾️💖
+
+Tera Kutta bhai
+— Tinn 🤭😋
+
+Heyy Mera Chhota bachha..
 
 Happieest birthday to the Cutest, Sweetest, and Prettiest girl in the whole universe!!! 🤌💗🧿
 I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️🌟
