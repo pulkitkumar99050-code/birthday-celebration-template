@@ -15,21 +15,19 @@ function MessageCard({ isActive }) {
 
   const message = `Oyee Chhota bachha..
 
-Happieest birthday to the Cutest, Sweetest, and Prettiest girl in the whole universe!!! 🤌💗🧿
+Happieest birthday to the most Cutest, Sweetest, and Prettiest Shaitan in the whole universe!!! 🤌💗🧿
 I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️🌟
-I wish this year turns out amazing for u and u achieve everything u want, all ur dreams come true, 
-and you enjoy every moment to the fullest!! 🥰
+I wish this year turns out amazing for u and u achieve everything u want, all ur dreams come true, and you enjoy every moment to the fullest!! 🥰
 
-Wishing All the best👍🏻 for ur boards Shaitan🐱. I know abhi thoda drr bhi lg rha hoga, 
-but Tum bs apna best dene ka try krna and pressure nhi lena ✌🏻
+Wishing All the best for ur boards Shaitan🐱. I know abhi thoda drr bhi lg rha hoga, but Tum bs apna best dene ka try krna and pressure nhi lena ✌🏻
 
 And remember, anything on your mind, u can share with me kbhi bhi, I'm always here.
 And For all the times jitni bar bhi maine tujhe hurt kiya hai in past years, Uske liye ek bada sa Sorryy Yr🥺
 
-You're the bestest sister anyone could ever have. Tu sbse achhi hai yrr 🥹 u r sweetest, smartest, and most wonderful girl in the world… 
+You're the bestest sister anyone could ever have. Tu sbseee achhi hai yrr 🥹 u r sweetest, smartest, and most wonderful girl in the world… 
 even though I'm your worst bhai.. 
 
-Once again, happiest birthday to uhh 🥳
+Once again, happiest birthday to uhh my chhotusa bachha 🥳
 Never stop smiling, shining and being this amazing ✨
 
 Miss u yr ♾️💖
