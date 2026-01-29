@@ -32,8 +32,7 @@ Never stop smiling, shining and being this amazing ✨
 
 Miss u yr ♾️💖
 
-Tera Kutta bhai 
-— Tinn 🐶🤭😋   `;
+— Tinn 🐶😋🤭   `;
 
   // Handle page transitions
   useEffect(() => {
