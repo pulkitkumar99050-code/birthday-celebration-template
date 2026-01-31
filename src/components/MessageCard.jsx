@@ -21,10 +21,9 @@ I wish this year turns out amazing for u and u achieve everything u want, all ur
 
 Wishing All the best for ur boards Shaitan🐱. I know abhi thoda drr bhi lg rha hoga, but Tum bs apna best dene ka try krna and pressure nhi lena ✌🏻
 
-And remember, anything on your mind, u can share with me kbhi bhi, I'm always here.
-And For all the times jitni bar bhi maine tujhe hurt kiya hai in past years, Uske liye ek bada sa Sorryy Yr🥺
-
-You're the bestest sister anyone could ever have. Tu sbseee achhi hai yrr 🥹 u r sweetest, smartest, and most wonderful girl in the world… 
+And remember, anything on your mind, u can share with me kbhi bhi, I'm always here. 🙃
+And For all the times, jitni bar bhi maine tujhe hurt kiya hai in past years, Uske liye ek bada sa Sorryy Yr🥺. You're the bestest sister anyone could ever have. 
+Tu sbseee achhi hai yrr 🥹 u r sweetest, smartest, and most wonderful girl in the world… 
 even though I'm your worst bhai.. 
 
 Once again, happiest birthday to uhh my chhotusa bachha 🥳
