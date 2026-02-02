@@ -13,26 +13,23 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Oyee Chhota bachha..
+  const message = `Happyyiee birthdayy <𝟑 🥳💗
 
-Happieest birthday to the most Cutest, Sweetest, and Prettiest Shaitan in the whole universe!!! 🤌💗🧿
-I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️🌟
-I wish this year turns out amazing for u and u achieve everything u want, all ur dreams come true, and you enjoy every moment to the fullest!! 🥰
 
-Wishing All the best for ur boards Shaitan🐱. I know abhi thoda drr bhi lg rha hoga, but Tum bs apna best dene ka try krna and pressure nhi lena ✌🏻
+Wishing Happieest Birthdayy to the most Cutest, Sweetest, and Prettiest shaitan😋 in the whole universe!!! 🤌💗🧿 I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️🌟
+And this year turns out amazing for u and u achieve everything u want, all ur dreams come true, and you enjoy every moment to the fullest!!🤞
+nd abhi kuch weeks me tumhare boards bhi hone wale hai toh uske liye AllTheBest 👍🏻
+Aur? Drr bhi lg rha hoga na abhi.. 
+Koi na, tu bs apna best dene ka try krna and pressure nhi lena, achha hi jayega ✌🏻☺
 
-And remember, anything on your mind, u can share with me kbhi bhi, I'm always here. 🙃
-And For all the times, jitni bar bhi maine tujhe hurt kiya hai in past years, Uske liye ek bada sa Sorryy Yr🥺. 
+And remember, anything on your mind, u can tell me kbhi bhi, I'm always here. And Yr For all the times, jitni bhi hm tumko hurt kiye hai ya tere pe gussa kiye hai in past years, Uske liye itnaa bada sa Sorryy 🥺 
+Tu sbse achhi hai yr 🥹 You're the bestest sister anyone could ever have. even though I'm your worst bhai.. 
 
-You're the bestest sister anyone could ever have. Tu sbseee achhi hai yrr 🥹 u r sweetest, smartest, and most wonderful girl in the world… 
-even though I'm your worst bhai.. 
+Once again Happiest birthdayy to uhh my Chhotusa bachha 🥰 
+Keep smiling, shining and being this amazing ✨🦋
 
-Once again, happiest birthday to uhh my chhotusa bachha 🥳
-Never stop smiling, shining and being this amazing ✨
-
-Miss u yr ♾️💖
-
-— Tinn 🐶😋🤭   `;
+Miss uh yr ♾️💖
+— Tinn 🤭😋  `;
 
   // Handle page transitions
   useEffect(() => {
