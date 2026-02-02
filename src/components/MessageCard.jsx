@@ -15,14 +15,15 @@ function MessageCard({ isActive }) {
 
   const message = `Happyyiee birthdayy <𝟑 🥳💗
 
-
-Wishing Happieest Birthdayy to the most Cutest, Sweetest, and Prettiest shaitan😋 in the whole universe!!! 🤌💗🧿 I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️🌟
+Wishing Happieest Birthdayy to the most Cutest, Sweetest, and Prettiest shaitan😋 in the whole universe!!! 🤌💗🧿 
+I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️✨
 And this year turns out amazing for u and u achieve everything u want, all ur dreams come true, and you enjoy every moment to the fullest!!🤞
-nd abhi kuch weeks me tumhare boards bhi hone wale hai toh uske liye AllTheBest 👍🏻
-Aur? Drr bhi lg rha hoga na abhi.. 
-Koi na, tu bs apna best dene ka try krna and pressure nhi lena, achha hi jayega ✌🏻☺
 
-And remember, anything on your mind, u can tell me kbhi bhi, I'm always here. And Yr For all the times, jitni bhi hm tumko hurt kiye hai ya tere pe gussa kiye hai in past years, Uske liye itnaa bada sa Sorryy 🥺 
+and abhi kuch weeks me tumhare boards bhi hone wale hai toh uske liye AllTheBest 👍🏻
+Aur? Drr bhi lg rha hoga abhi.. 
+Koi na yrr, tu bs apna best dene ka try krna and pressure nhi lena, achha hi jayega ✌🏻😊
+
+And remember, anything on your mind, u can tell me, kbhi bhi 🙃. And Yr For all the times, jitni bhi hm tumko hurt kiye hai ya tere pe gussa kiye hai in past years, Uske liye itnaa bada sa Sorryy 🥺 
 Tu sbse achhi hai yr 🥹 You're the bestest sister anyone could ever have. even though I'm your worst bhai.. 
 
 Once again Happiest birthdayy to uhh my Chhotusa bachha 🥰 
