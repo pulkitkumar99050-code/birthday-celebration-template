@@ -175,7 +175,7 @@ Miss uh yr ♾️💖
 
   return (
     <section className="message">
-      <h2>💌 A Message From My Heart 💌</h2>
+      <h2>💌 A Sweet Message For You 💌</h2>
 
       <div className="curtain-container">
         <div className="curtain-rod"></div>
