@@ -19,7 +19,7 @@ Wishing Happieest Birthdayy to the most Cutest, Sweetest, and Prettiest shaitan�
 I wish Mahadev always blesses you with endless happiness, joy, and success ur heart dreams of ♾️✨
 And this year turns out amazing for u and u achieve everything u want, all ur dreams come true, and you enjoy every moment to the fullest!!🤞
 
-And abhi kuch weeks me tumhare boards bhi hone wale hai toh uske liye All the best 👍🏻
+And abhi kuch weeks me tumhare boards bhi hone wale hai toh uske liye bhi All the best 👍🏻
 Aur? Drr bhi lg rha hoga na abhi..😅
 Koi na yrr, tu apna best dene ka try krna and pressure nhi lena, achha hi jayega ✌🏻😊
 
