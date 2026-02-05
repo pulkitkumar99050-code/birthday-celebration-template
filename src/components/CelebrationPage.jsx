@@ -34,7 +34,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
       type: "announcement",
     },
     {
-      icon: "🥹",
+      icon: "😋",
       text: "Do u wanna see what ur idiot bhai made? Yes daba na..𖹭",
       type: "question",
       options: [
@@ -44,7 +44,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
     },
     {
       icon: "✨",
-      text: "Have a look at it, Mera bachha!!",
+      text: "Have a look at it, Chhota bachha!!",
       type: "announcement",
     },
   ];
